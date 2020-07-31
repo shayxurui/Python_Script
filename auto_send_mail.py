@@ -10,11 +10,11 @@ import time
 import math
 
 
-msg_from = 'shayxurui@foxmail.com'  # 发送方邮箱
-passwd = 'mblpcjhzbdah'  # 填入发送方邮箱的授权码
+msg_from = 'xxxxx@foxmail.com'  # 发送方邮箱
+passwd = 'xxxxxxx'  # 填入发送方邮箱的授权码
 
 
-xls_path=r'C:\Users\84733\Desktop\助教\成绩一览表final.xlsx'
+xls_path=r'C:\Users\xxxxx\Desktop\助教\成绩一览表final.xlsx'
 
 
 
